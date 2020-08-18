@@ -46,6 +46,8 @@ public class Coin extends InteractiveTileObject{
         //Hud.addScore(100);
     }*/
 
+    /*Clase : Coin */
+
 
     @Override
     public void onHeadHit(Perse perse) {

@@ -14,6 +14,8 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.mygdx.game.PersevereGame;
 
+/* Class : GameOverScreen */
+
 public class GameOverScreen implements Screen {
     private Viewport viewport;
     private Stage stage;

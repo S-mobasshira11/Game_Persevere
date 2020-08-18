@@ -17,6 +17,8 @@ public class Brick extends InteractiveTileObject {
         setCategoryFilter(PersevereGame.BRICK_BIT);
     }
 
+    /*Class : Brick */
+
     @Override
     public void onHeadHit(Perse perse) {
         Gdx.app.log("Brick", "Collision");
