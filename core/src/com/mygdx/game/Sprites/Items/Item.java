@@ -1,4 +1,4 @@
-//done by peomd
+//done by peomdt
 
 package com.mygdx.game.Sprites.Items;
 
